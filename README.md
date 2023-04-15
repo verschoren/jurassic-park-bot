@@ -122,7 +122,6 @@ POST `https://jurassicpark.internalnote.com/order`
 ## Screenshots
 ![Artboard](https://user-images.githubusercontent.com/894026/232208605-244eadc4-9bc6-4cba-964d-177eb8c31e6a.png)
 ![Artboard Copy](https://user-images.githubusercontent.com/894026/232208602-72e0102c-65c9-488b-a77e-b20542bdcadb.png)
-# jurassic-park-bot
 Cloudflare Worker with API Endpoints for the Jurassic Park Widget Intent
 ![Artboard Copy 2](https://user-images.githubusercontent.com/894026/232208593-f408d520-7e1b-4d4b-9569-53414856f091.png)
 ![Artboard Copy 3](https://user-images.githubusercontent.com/894026/232208600-7d8c9973-844a-4da8-b6f5-9c46e40d17a9.png)
