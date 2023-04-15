@@ -1,10 +1,9 @@
 ![Apple TV 4K Copy 57@1x](https://user-images.githubusercontent.com/894026/232208610-13e87b26-e4a1-4e43-a0d1-c2bef700d00c.jpg)
 # Learn how to build a full-featured Flow Builder Bot for Zendesk.
-See the following [Internal Note](internalnote.com/flow-builder-dinosaurs/
-) article for more info.
+See the following [Internal Note](https://internalnote.com/flow-builder-dinosaurs/) article for more info.
 
 ## Endpoints
-GET `https://jurassicpark.internalnote.com/status`
+GET `https://jurassic-park-bot.internalnote.com/status`
 
 ```
 {
@@ -12,7 +11,7 @@ GET `https://jurassicpark.internalnote.com/status`
 }
 ```
 
-POST `https://jurassicpark.internalnote.com/order`
+POST `https://jurassic-park-bot.internalnote.com/order`
 ```
 {
   "order_id":"1234"
